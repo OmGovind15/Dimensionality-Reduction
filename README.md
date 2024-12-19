@@ -7,7 +7,7 @@ This project demonstrates the implementation of Principal Component Analysis (PC
 ---
 
 
-## Members
+## Contributers
 - Arpan Jain  
 - Kolhe Chaitanya Mahesh  
 - Om Govind Jha  
